@@ -92,6 +92,6 @@ To further improve performance, transfer learning using the Inception-v3 model i
 ## Testing with Custom Images
 The trained model is tested with custom images to classify them as either dogs or cats.
 
-##Conclusion
+## Conclusion
 This project showcases various techniques in deep learning, including image augmentation, dropout regularization, and transfer learning, to classify images of dogs and cats. Through experimentation and optimization, significant improvements in model performance are achieved, demonstrating the effectiveness of these techniques in image classification tasks.
 
